@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+}
+
+.navbar {
+    overflow: hidden;
+    position: sticky;
+    /* position: -webkit-sticky; */
+    top: 0;
+  }
+
+body {
+    font-family: "Tinos", sans-serif;
+  }
